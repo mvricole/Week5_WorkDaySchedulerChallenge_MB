@@ -1,5 +1,5 @@
 # Week5_WorkDaySchedulerChallenge_MB
-Week 5 Work Day Scheduler
+
 
 Week 5 - Work Day Scheduler submission by Marian Nicole Borja 
 
